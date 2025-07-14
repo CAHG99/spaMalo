@@ -13,10 +13,12 @@ Single Page Application (SPA) for event management with authentication and sessi
 ## 🧪 How to run
 1. Clone the repository.
 2. Install dependencies:
-```npm install
+```
+npm install
 ```
 3. Start the fake backend with json-server:
-```npm run server
+```
+npm run server
 ```
 4. Open `public/index.html` with Live Server or a local server.
 
